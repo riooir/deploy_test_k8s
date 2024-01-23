@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: riooir/deploy_test:app-20
+      - image: riooir/deploy_test:app-21
         name: flaskdemo
         resources: {}
 status: {}
